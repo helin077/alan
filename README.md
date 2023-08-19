@@ -1,1 +1,2 @@
 # alan
+alana dosya girecek
